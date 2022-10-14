@@ -1,3 +1,7 @@
 In this IoT project, I used a Raspberry Pi stationed at my school's rooftop garden in conjunction with various environmental sensors to constantly monitor the temperature, humidity, moisture, and other conditions of the garden. The objective was to determine when exactly the garden needed to be watered.
 
 Along with the hardware, I used Initial State to create a real-time dashboard that displayed visual representations of the conditions and inserted it into my school's website so it could be publicly viewed. 
+
+The Initial State dashboard can be viewed at this link: https://beyondtheplateasij.wixsite.com/btpasij/activities 
+
+Unfortunately, since the hardware had to be taken down for garden renovations, there are currently no readings being displayed in the dashboard. 
